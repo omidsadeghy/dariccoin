@@ -1,0 +1,2 @@
+# dariccoin
+First Persian CryptoCoin
