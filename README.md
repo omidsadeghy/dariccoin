@@ -1,5 +1,5 @@
 # dariccoin
-First Persian CryptoCoin
+
 ...
 دريک, اولين ارز ديجيتال ايران
 ...
